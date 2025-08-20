@@ -25,5 +25,4 @@ This is a simple **Java-based console banking system** that simulates core banki
 
 ---
 
-## 📁 File Structure
 
